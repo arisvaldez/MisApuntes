@@ -4,3 +4,4 @@ Capítulo 3: Repositorios remotos
 Capítulo 4: POO y SOLID
 Capítulo 5: POO, SOLID, GRASP y Patrones
 Capítulo 6: Clean Code
+Capitulo 7: HTML
